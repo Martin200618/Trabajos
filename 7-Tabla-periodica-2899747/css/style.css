@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(13, 78, 138);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1{
+    font-size: 60px;
+    color: red;
+    margin-left: 300px;
+}
+
+.element{
+    border: 1px solid #ffffff;
+}
+
+.numero{
+    font-size: 10px;
+    margin-left: 36px;
+    margin-top: -12px;
+    color: white;
+}
+
+.masa{
+    font-size: 8px;
+    margin-left: -12px;
+    color: white; 
+}
+
+.simbolo{
+    font-size: 20px;
+    margin-left: 15px;
+    color: white;
+}
+
+.nombre{
+    font-size: 10px;
+    margin-left: -10px;
+    color: white;
+}
+    
+.gas-noble{
+    background-color: aqua;
+}
+
+.actinidos{
+    background-color:rgb(140, 252, 28);
+}
+
+.alogenos{
+    background-color: rgb(109, 211, 7);
+}
+
+.lantanidos{
+    background-color: darkgreen;
+}
+
+.no-metales{
+    background-color: purple;
+}
+
+.metaloides{
+    background-color: #03cf70;
+}
+
+.otros-metales{
+    background-color: rgb(80, 9, 80);
+}
+
+.meta-transicion{
+    background-color: deeppink;
+}
+
+.meta-alcalinos{
+    background-color: rgb(240, 111, 19);
+}
+
+.alcalinoterrestres{
+    background-color: rgb(184, 43, 8);
+}
