@@ -8,7 +8,7 @@ class operacion{
     public $division;
 
     public function setSumar($numeroUno, $numeroDos){
-        $this-> sumar = $numeroUno + $numeroDos;
+        $this->sumar = $numeroUno + $numeroDos;
     }
     public function getSumar(){
         return $this->sumar;

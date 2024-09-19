@@ -12,7 +12,7 @@ $saludar->setsaludar("hola martin");
 </head>
 <body>
     <?php
-    echo $saludar->getSaludar(); 
+    echo $saludar->getsaludar();
     ?>
 </body>
 </html>
